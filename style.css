@@ -34,7 +34,7 @@ h2, h3 {
 }
 
 .page-header {
-  background-color: #3c3c3c;
+  background-color: #555;
   background-image: url("img/BG-header.jpg");
 
 }
@@ -319,7 +319,7 @@ h2, h3 {
 }
 
 .feedback-content__item:nth-child(1) {
-  margin-left: -200px;
+  margin-left: -100px;
 }
 
 .feedback-content__item:nth-child(2) {
