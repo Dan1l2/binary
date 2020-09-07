@@ -94,6 +94,16 @@ h2, h3 {
   text-transform: uppercase;
 }
 
+.header-link__btn:hover {
+  color: #000;
+  background-color: #FFF;
+}
+
+.header-link__btn:active,
+.header-link__btn:focus {
+  background-color: #f9f9f9;
+}
+
 .header-nav {
   margin-top: 50px;
   background-color: #FFF;
@@ -284,6 +294,15 @@ h2, h3 {
 .portfolio-link__btn {
   border: 1px solid #000;
   text-transform: uppercase;
+}
+
+.portfolio-link__btn:hover {
+  background-color: #000;
+  color: #FFF;
+}
+
+.portfolio-link__btn:active {
+  background-color: #090909;
 }
 
 .partners {
