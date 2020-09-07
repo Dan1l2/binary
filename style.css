@@ -35,7 +35,7 @@ h2, h3 {
 
 .page-header {
   background-color: #555;
-  background-image: url("../../img/BG-header.jpg");
+  background-image: url("img/BG-header.jpg");
 
 }
 
@@ -282,7 +282,7 @@ h2, h3 {
 }
 
 .partners {
-  background-image: url("../../img/BG-header.jpg");
+  background-image: url("img/BG-header.jpg");
   padding-top: 50px;
 }
 
