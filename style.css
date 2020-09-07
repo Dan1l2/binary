@@ -263,6 +263,11 @@ h2, h3 {
   margin-right: 100px;
 }
 
+.portfolio-list__item:hover {
+  width: 555px;
+  height: 380px;
+}
+
 .portfolio-list__item {
   width: 535px;
   height: 360px;
